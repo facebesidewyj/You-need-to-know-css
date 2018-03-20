@@ -60,4 +60,4 @@ or submit an [issue](https://github.com/l-hammer/You-need-to-know-css/issues) - 
 
 See [license](https://github.com/l-hammer/You-need-to-know-css/blob/master/LICENSE)
 
-MIT © 2018 LHammer 
+MIT © 2018 LHammer
